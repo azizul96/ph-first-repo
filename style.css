@@ -1,0 +1,29 @@
+#first_h1{
+    color: red;
+    text-align: center;
+    font-family:Georgia;
+}
+#first_p{
+    color: black;
+    text-align: justify;
+    font-family: helvetica;
+}
+
+.container{
+    text-align: center;
+}
+.myUl{
+    color: blue;
+    display: inline-block;
+    text-align: left;
+}
+.blog{
+    background-color: aqua;
+    border-top: 20px solid tomato; 
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+.blog p{
+    text-align: justify;
+}
